@@ -15,10 +15,10 @@
         width: 30%;
         height: 100%;
     }
- 
-    section#login > div#formulario {
-        width: 100%;
+
+    section#login > div#formulario{
         text-align: center;
+        width: 100%;
     }
 
     div#formulario > p{
@@ -57,3 +57,6 @@
     }
     
 }
+
+
+
